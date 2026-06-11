@@ -1,0 +1,1 @@
+"use strict"; // means treat all JS code as a newer version
