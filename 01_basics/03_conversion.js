@@ -10,3 +10,10 @@ console.log(valueInNumber)
 let isLoggedIn = 1
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn);
+
+let value =3;
+let negValue = -value
+console.log(negValue)
+
+console.log(+true);
+console.log(+"");
